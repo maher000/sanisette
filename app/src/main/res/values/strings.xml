@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Sanisettes</string>
+    <string name="title_main">Sanisettes</string>
+    <string name="address">Address:</string>
+    <string name="open_hours">Open Hours:</string>
+    <string name="manager">Manager:</string>
+    <string name="source">Source: </string>
+    <string name="district">District: </string>
+</resources>
