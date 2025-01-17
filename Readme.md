@@ -18,6 +18,14 @@ Sanisette is an Android application built for a technical interview test. It pro
 
 3. **Bottom Navigation Bar**
     - Provides easy navigation between the list view and the map view.
+  
+## Screenshots
+
+### List and Map Views
+<p  style="display: flex; justify-content: center; gap: 40px;">
+  <img src="sanisettes list.png" alt="List View" width="45%" />
+  <img src="sanisettes map.png" alt="Map View" width="45%" />
+</p>
 
 ## Technologies Used
 
@@ -76,8 +84,9 @@ Sanisette is an Android application built for a technical interview test. It pro
 
 1. Add clustering for markers on the map to improve performance and readability when zoomed out.
 2. Improve loading sanisettes on the map
-3. Implement offline support for viewing public toilet data.
-4. Add more unit tests
+3. improve navigation between screens
+4. Implement offline support for viewing public toilet data.
+5. Add more unit tests
 
 
 ## Contributions
