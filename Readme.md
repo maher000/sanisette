@@ -65,19 +65,12 @@ Sanisette is an Android application built for a technical interview test. It pro
 
 1. **Unit Tests**:
     - ViewModel tests ensure the correctness of business logic and API interactions.
-    - MockK is used for mocking dependencies and verifying interactions.
-
-2. **UI Tests**:
-    - Basic UI tests verify the functionality of the list and map views.
-
-3. **Paging Tests**:
-    - Tests ensure proper handling of paginated data from the API.
 
 ## Usage
 
 1. Launch the app.
 2. Use the bottom navigation bar to switch between the list view and the map view.
-3. Use the search bar or district filter to narrow down the results.
+3. Use district filter to narrow down the results.
 
 ## Future Enhancements 
 
